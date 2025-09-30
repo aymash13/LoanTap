@@ -1,4 +1,4 @@
-# 📊 LoanTap Creditworthiness Prediction  
+# 📊 LoanTap Defaulter Prediction  
 
 ---
 
